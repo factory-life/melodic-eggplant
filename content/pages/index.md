@@ -7,7 +7,8 @@ sections:
       South African SEO company with proven results and cutting edge solutions.
       Our SEO is results driven and we make use of cutting edge SEO technology
       to compliment our personal expertise.
-    content: '**April 14 - 16, 2021**'
+    content: |
+      ****
     actions:
       - label: Get Your Ticket Today!
         url: /about
