@@ -57,9 +57,13 @@ sections:
   - type: features_section
     title: Results driven SEO agency based in South Africa
     features:
-      - content: >-
-          Event is a responsive theme for online events, meetups, conferences
-          and webinars from Stackbit.
+      - content: >
+          We facilitate all the various aspects of SEO and combine these key SEO
+          factors into a single strategy that is tailormade according to each
+          customer's unique requirement. Our SEO has been proven to rank for
+          keywords in highly competitive industries. We are also content SEO
+          experts and can craft unique content strategies for your business that
+          will propel you forward in the search engine results.
         align: center
     feature_padding_vert: medium
     align: center
