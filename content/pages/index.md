@@ -10,7 +10,7 @@ sections:
     content: |
       ****
     actions:
-      - label: Contat
+      - label: Contact us
         url: /about
         style: primary
     align: center
